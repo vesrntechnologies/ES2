@@ -190,235 +190,115 @@ let questions = [
   },
      {
     numb: 17,
-    question: "What is the extension of notepad file? ",
+    question: "Which one is a Do s of discussion etiquettes?",
 
-    answer: ".txt",
+    answer: "listen to others",
     options: [
-      ".fil",
-      ".dll",
-      ".doc",
-      ".txt"
+      "loose your temper",
+      "listen to others",
+      "Talk about irrelevant details",
+      "use impolite or rude language"
     ]
   },
      {
     numb: 18,
-    question: "Name the tool in control panel which is used to adjust your computer setting with voice command? ",
+    question: "Which one is a Dont of discussion etiquette?",
 
-    answer: "Ease of access",
+    answer: "Argue unnecessary",
     options: [
-      "Ease of access",
-      "System and Security",
-      "Appearance and personalization",
-      "Hardware and sound"
+      "Be open minded",
+      "use moderate tone",
+      "listen to others",
+      "Argue unnecessary"
     ]
   },
      {
     numb: 19,
-    question: "Name the shortcut key used to open start menu? ",
+    question: "Which one is a brain of computer?",
 
-    answer: "Windows Logo",
+    answer: "CPU",
     options: [
-      "Windows Logo",
-      "Ctrl",
-      "Shift",
-      "Alt"
+      "Keyboard",
+      "CPU",
+      "Monitor",
+      "Hard disk"
     ]
   },
      {
     numb: 20,
-    question: "Which type of device is a printer? ",
+    question: "Which one is an exclamatory sentence?",
 
-    answer: "Output Device",
+    answer: "What ia beutiful house it is!",
     options: [
-      "Input device",
-      "Output Device",
-      "Processing Device",
-      "Calcuating Device"
+      "What ia beutiful house it is!",
+      "It is beautiful house",
+      "Is it beautiful house?",
+      "Your house is beautiful"
     ]
   },
      {
     numb: 21,
-    question: "What is the function of operating system? ",
+    question: "Which one is in active voice?",
 
-    answer: "Process and memory management",
+    answer: "Ram has passed the exam",
     options: [
-      "Word processing",
-      "Calculation",
-      "Process and memory management",
-      "Drawing Pictures"
+      "Ram has passed the exam",
+      "The ball was caught by him",
+      "The book was being read by her",
+      "We were driven home by dad."
     ]
   },
      {
     numb: 22,
-    question: "Name the ICON in which deleted files and folder are found",
+    question: "Which one is in passive voice?",
 
-    answer: "Recycle Bin",
+    answer: "Her birthday was celebrated by us",
     options: [
-      "My Computer",
-      "Recycle Bin",
-      "Microsoft Edge",
-      "Google Chrome"
+      "Mohan is painting a house.",
+      "she was reading a book",
+      "Her birthday was celebrated by us",
+      "I have seen that movie"
     ]
   },
      {
     numb: 23,
-    question: "Name the tool in control panel which we can change the system date?",
+    question: "Which one is NOT a conjuction?",
 
-    answer: "Date and Time",
+    answer: "On",
     options: [
-      "User Account",
-      "System",
-      "Date and Time",
-      "Fonts"
+      "And",
+      "Or",
+      "But",
+      "On"
     ]
 
          
   },
      {
     numb: 24,
-    question: "Fill in the blank with correct future tense of verb. We ___________ to the zoo after Breakfast  ",
+    question: "Which one is NOT a benefit of the role playing",
 
-    answer: "will go",
+    answer: "Develops boredom",
     options: [
-      "went",
-      "are going",
-      "had gone",
-      "will go"
+      "Builds confidence",
+      "Develops listening skill",
+      "Develops creative problem solving skill",
+      "Develops boredom"
     ]
   },
      {
     numb: 25,
-    question: "Which type of device is a scanner? ",
+    question: "Which one is NOT a vowel?",
 
-    answer: "Input device",
+    answer: "f",
     options: [
-      "Processing Device",
-      "Internal Device",
-      "Output Device",
-      "Input device"
+      "a",
+      "e",
+      "f",
+      "i"
     ]
   },
-  {
-    numb: 26,
-    question: "A Resume shoudl be____ ",
-
-    answer: "Short and Precise",
-    options: [
-      "Short and Precise",
-      "Fancy and Colourful",
-      "Having long and detailed information",
-      "Having acronyms and abbreviations"
-    ]
-  },  
-     {
-    numb: 27,
-    question: "A written description of duties and responsibilities to be carried out in a job is called __________",
-
-    answer: "job description",
-    options: [
-      "CV",
-      "job description",
-      "resume",
-      "job applications"
-    ]
-  },  
-      {
-    numb: 28,
-    question: "After receiving interview call, what is the next step?",
-
-    answer: "Appear at interview",
-    options: [
-      "Send application letter",
-      "Prepare the resume",
-      "Appear at interview",
-      "Send Resume"
-    ]
-  },  
-
-     {
-    numb: 29,
-    question: "Choose suitable wh word for the given sentence. ___________ animal do you like?",
-
-    answer: "Which",
-    options: [
-      "Which",
-      "Why",
-      "Where",
-      "When"
-    ]
-  },  
-     {
-    numb: 30,
-    question: "Choose the correct punctuation mark after the word Rohan in the given sentence. Rohan David and Ram are playing hide and seek",
-
-    answer: "Comma (,)",
-    options: [
-      "Comma (,)",
-      "Period (_)",
-      "Slash (/)",
-      "Hyphen (-)"
-    ]
-  },  
- {
-    numb: 31,
-    question: "Choose the correct response for the given question. How have you been?",
-
-    answer: "Very well, And you?",
-    options: [
-      "Very well, And you?",
-      "Thank you_ And you?",
-      "Same to you",
-      "On vacation_ And you?"
-    ]
-  },  
-     {
-    numb: 32,
-    question: "Choose the correct response of the given question. When did the accident happen?",
-
-    answer: "At 10:30 last night",
-    options: [
-      "in the hotel",
-      "during travelling",
-      "At 10:30 last night",
-      "On the table"
-    ]
-  },  
-     {
-    numb: 33,
-    question: "Choose the correct tense of the verb. I __________ music when I was child",
-
-    answer: "had learnt",
-    options: [
-      "learn",
-      "am learning",
-      "will learn",
-      "had learnt"
-    ]
-  },  
-     {
-    numb: 34,
-    question: "Curriculum vitae is also known as ___________ .",
-
-    answer: "resume",
-    options: [
-      "circular",
-      "resume",
-      "job application form",
-      "leave application"
-    ]
-  },  
-        {
-    numb: 35,
-    question: "Fill in the blank with comparative adjective. Your pencil is __________ than mine",
-
-    answer: "sharper",
-    options: [
-      "sharp",
-      "sharper",
-      "blunt",
-      "thick"
-    ]
-  },  
+ 
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
