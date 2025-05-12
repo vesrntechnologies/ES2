@@ -2,30 +2,30 @@
 let questions = [
     {
     numb: 1,
-    question: "To be in a job or work is?",
+    question: "Fill in the blank with correct word. They _________ good friends",
    
-    answer: "Employee",
+    answer: "are",
     options: [
-      "Employee",
-      "Skill",
-      "Knowledge",
-      "Aptitude"
+      "is",
+      "am",
+      "are",
+      "was"
     ]
   },
     {
     numb: 2,
-    question: "The ability to do is",
-    answer: "Skill",
+    question: "Fill in the blank with present progressive tense of the verb. The train __________ through the tunnel",
+    answer: "is passing",
     options: [
-      "Knowledge",
-      "Experience",
-      "Skill", 
-      "Job"
+      "passed",
+      "is passing",
+      "had passed", 
+      "was passing"
     ]
   },
     {
     numb: 3,
-    question: "A person with a growth mindset is always willing to",
+    question: "Fill in the blank with proper interrogative adjective. ___________ are you going?",
     
     answer: "grow, challenge, learn",
     options: [
