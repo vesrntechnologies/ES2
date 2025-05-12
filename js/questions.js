@@ -27,56 +27,56 @@ let questions = [
     numb: 3,
     question: "Fill in the blank with proper interrogative adjective. ___________ are you going?",
     
-    answer: "grow, challenge, learn",
+    answer: "where",
     options: [
-      "relax",
-      "Keep quiet",
-      "grow, challenge, learn",
-      "become rich"
+      "where",
+      "who",
+      "which",
+      "what"
     ]
   },
     {
     numb: 4,
-    question: "Jobs that jave become outdated in the past 5 years",
-    answer: "STD Booth",
+    question: "Fill in the blank with proper pronoun. I made this cake ___________",
+    answer: "myself",
     options: [
-      "STD Booth",
-      "ola",
-      "uber",
-      "swiggy"
+      "myself",
+      "yourself",
+      "himself",
+      "itself"
     ]
   },
     {
     numb: 5,
-    question: "21st century workplace skills help you to get employed..",
-    answer: "even job market keep changing",
+    question: "Fill in the blank with proper pronoun. She made this cake ___________",
+    answer: "herself",
     options: [
-      "even job market keep changing",
-      "very difficult",
-      "only when market is growing",
-      "only with higher qualification"
+      "Myself",
+      "himself",
+      "herself",
+      "itself"
     ]
   },
   {
     numb: 6,
-    question: "Ethics means",
-    answer: "decide what is right and wrong for a human conduct",
+    question: "Fill in the blank with proper reflexive pronoun. She has hurt___________",
+    answer: "herself",
     options: [
-      "decide what is right and wrong for a human conduct",
-      "name of a city",
-      "employability skills",
-      "not relavant to society "
+      "myself",
+      "herself",
+      "himself",
+      "itself"
     ]
   },
   {
     numb: 7,
-    question: "Values are...",
-    answer: "Motivates our attitude and action",
+    question: "Fill in the blank with suitable adjective for the given sentence The little girl s…… eyes revealed her mischief",
+    answer: "twinkling",
     options: [
-      "not punctual",
-      "Motivates our attitude and action",
-      "very costly",
-      "all have same values"
+      "chubby",
+      "weak",
+      "shor sighted",
+      "twinkling"
     ]
   },
   {
