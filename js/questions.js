@@ -81,111 +81,111 @@ let questions = [
   },
   {
     numb: 8,
-    question: "____ is a brief statement about purpose and principles of constitution ",
+    question: "Fill in the blank with suitable place preposition. My house is ___________ the third floor",
 
-    answer: "The preamble",
+    answer: "on",
     options: [
-      "Syllabus",
-      "Module",
-      "The preamble",
-      "Unit"
+      "at",
+      "in",
+      "on",
+      "under"
     ]
   },
   {
     numb: 9,
-    question: "Identify the improper term...",
+    question: "Fill in the correct question word. _______________ is the speaker at the function?",
 
-    answer: "green pollution",
+    answer: "who",
     options: [
-      "green pollution",
-      "water pollution",
-      "air pollution",
-      "sound pollution"
+      "what",
+      "when",
+      "why",
+      "who"
     ]
   },
  {
     numb: 10,
-    question: "People from all religions or no religions are treated equally means.... ",
+    question: "Low level language is also called------",
 
-    answer: "Secular Country",
+    answer: "machine language",
     options: [
-      "democratic",
-      "religious",
-      "Non secular",
-      "Secular Country"
+      "source code",
+      "middle ware",
+      "machine language",
+      "assembly language"
     ]
   },
      {
     numb: 11,
-    question: "........... is major changes takes place in manufacturing",
+    question: "Pronunciation refers to___________",
 
-    answer: "Industry Revolution",
+    answer: "Production of sound",
     options: [
-      "Green Revolution",
-      "Industry Revolution",
-      "Water revolution",
-      "Food revolution"
+      "dipthong",
+      "consonant",
+      "punctuation",
+      "Production of sound"
     ]
   },
      {
     numb: 12,
-    question: "1st industrial revolution started in?",
+    question: "Re-arrange the following set of words into meaningful sentence. teacher / school / worked / she / a / as",
 
-    answer: "18th century",
+    answer: "She worked as a school teacher",
     options: [
-      "18th century",
-      "19th century",
-      "20th century",
-      "21st century"
+      "School worked a she teacher",
+      "She worked as a school teacher",
+      "She teacher worked as a school",
+      "worked she as a school teacher"
     ]
   },
      {
     numb: 13,
-    question: "Hard Skill....",
+    question: "Rise and fall of pitch of voice is called.....",
 
-    answer: "60 WPM typing speed",
+    answer: "intonation",
     options: [
-      "quick learner",
-      "time management",
-      "60 WPM typing speed",
-      "spoken English"
+      "vowel",
+      "consonant",
+      "intonation",
+      "pronunciation"
     ]
   },
      {
     numb: 14,
-    question: "To grow yourself you must............. ",
+    question: "Thew word that express a sudden and storng feeling is called..... ",
 
     answer: "know your self",
     options: [
-      "know your office",
-      "know your self",
-      "know your institute",
-      "know your country"
+      "punctuation",
+      "interjection",
+      "conjuction",
+      "apostrophe"
     ]
   },
      {
     numb: 15,
-    question: "Time management....",
+    question: "When you greet higher official’s such as Teacher, Instructor or Supervisor, you should use ___________",
 
-    answer: "Complete your task on time",
+    answer: "Good morning",
     options: [
-      "Complete your task on time",
-      "managing time",
-      "hard skill",
-      "problem solving"
+      "Good morning",
+      "Hello",
+      "Hey",
+      "Hi"
     ]
   },
 
      {
     numb: 16,
-    question: "Where does the pinned applications stayed in Windows OS? ",
+    question: "Which is a silent letter in the word ANSWER?",
 
-    answer: "Taskbar",
+    answer: "W",
     options: [
-      "Desktop",
-      "Notification Area",
-      "Start Button",
-      "Taskbar"
+      "R",
+      "E",
+      "S",
+      "W"
     ]
   },
      {
